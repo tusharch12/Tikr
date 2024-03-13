@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761744568574",
+    "project_id": "tikr99-49f50",
+    "storage_bucket": "tikr99-49f50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761744568574:android:6ecff0d864ddb36fc4b5af",
+        "android_client_info": {
+          "package_name": "com.tikr99.tikr99"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSofEmVCzwL6XzWWv2g560C_iPpWCDXDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
