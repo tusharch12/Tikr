@@ -5,7 +5,7 @@ import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:gradient_borders/box_borders/gradient_box_border.dart';
 import 'package:tikr/Page/Setting%20Page/contactus.dart';
-import 'package:tikr/button.dart';
+import 'package:tikr/widget/button.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 import '../Home.dart';
 

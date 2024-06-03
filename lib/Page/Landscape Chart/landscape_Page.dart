@@ -11,13 +11,13 @@ import 'package:tikr/Page/g1new.dart';
 import 'package:tikr/Page/signIn.dart';
 import 'package:tikr/provider/g1Provider.dart';
 import 'package:tikr/provider/timerCandle.dart';
+import 'package:tikr/widget/Images.dart';
 import 'package:tikr/widget/signUpButton.dart';
 import 'package:web_socket_channel/io.dart';
 import 'package:web_socket_channel/web_socket_channel.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
-import '../../Images.dart';
 import '../../Modals/StockChart/StockpriceList_modal.dart';
-import '../../textstyle.dart';
+
 
 class LandScapeChart extends StatefulWidget {
   LandScapeChart({

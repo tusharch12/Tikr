@@ -11,10 +11,11 @@ import 'package:tikr/class/secure_storage.dart';
 import 'package:tikr/page/Home.dart';
 import 'package:tikr/page/signIn.dart';
 import 'package:tikr/provider/otpProvider.dart';
+import 'package:tikr/widget/button.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 import '../Modals/createfund_modal.dart';
 import '../Modals/loginVer_modal.dart';
-import '../button.dart';
+
 import '../widget/CustomNotification.dart';
 
 class loginVer {

@@ -13,8 +13,8 @@ import 'package:simple_gradient_text/simple_gradient_text.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 import 'package:http/http.dart' as http;
 
-import '../../Images.dart';
-import '../../textstyle.dart';
+import 'package:tikr/widget/Images.dart';
+import 'package:tikr/widget/textstyle.dart';
 import '../../widget/signUpButton.dart';
 import 'coupun.dart';
 

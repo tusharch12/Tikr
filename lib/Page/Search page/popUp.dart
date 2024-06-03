@@ -3,9 +3,10 @@ import "package:flutter/material.dart";
 import "package:flutter/services.dart";
 import "package:flutter_svg/svg.dart";
 import "package:gradient_borders/box_borders/gradient_box_border.dart";
-import "package:tikr/button.dart";
+import "package:tikr/widget/Images.dart";
+import "package:tikr/widget/button.dart";
 import "package:zoom_tap_animation/zoom_tap_animation.dart";
-import "../../Images.dart";
+
 import "../../Modals/Pools/PublicPool_modal.dart";
 import "../../widget/CustomNotification.dart";
 import "../Pool page/Pool_Page.dart";

@@ -5,9 +5,9 @@ import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:gradient_borders/box_borders/gradient_box_border.dart';
 import 'package:tikr/Page/Wallet/Add_money.dart';
-import '../../Images.dart';
+import 'package:tikr/widget/Images.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
-import '../../textstyle.dart';
+import 'package:tikr/widget/textstyle.dart';
 import 'Recharge_Request.dart';
 import 'coupun.dart';
 

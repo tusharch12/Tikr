@@ -11,12 +11,13 @@ import 'package:http/http.dart' as http;
 import 'package:tikr/Modals/orders/orders_modal.dart';
 import 'package:tikr/Page/Order%20page/pastOrder_Page.dart';
 import 'package:tikr/Page/signIn.dart';
-import 'package:tikr/button.dart';
+import 'package:tikr/widget/button.dart';
+
 import 'package:tikr/widget/orderPage_con.dart';
 import 'package:tikr/widget/signUpButton.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 import '../../provider/recentOrder.dart';
-import '../../textstyle.dart';
+import 'package:tikr/widget/textstyle.dart';
 import '../Wallet/WalletPage.dart';
 
 Future orderApiCall(token) async {
@@ -300,7 +301,6 @@ class _orderPageState extends State<orderPage> {
     );
   }
 }
-
 
 Widget listw(height, width, lh) {
   return Column(children: [

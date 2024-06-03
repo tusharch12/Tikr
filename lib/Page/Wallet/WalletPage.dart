@@ -15,8 +15,8 @@ import 'package:tikr/page/Wallet/withdraw.dart';
 import 'package:tikr/widget/signUpButton.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 
-import '../../Images.dart';
-import '../../textstyle.dart';
+import 'package:tikr/widget/Images.dart';
+import 'package:tikr/widget/textstyle.dart';
 import '../../widget/ineternet_connection.dart';
 import 'Add_money.dart';
 

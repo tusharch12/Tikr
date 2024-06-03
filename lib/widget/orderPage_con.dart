@@ -5,11 +5,12 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:gradient_borders/box_borders/gradient_box_border.dart';
 import 'package:intl/intl.dart';
 import 'package:simple_gradient_text/simple_gradient_text.dart';
+import 'package:tikr/widget/textstyle.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 
 import '../Modals/orders/orders_modal.dart';
 import '../page/Order page/orderDetail_page.dart';
-import '../textstyle.dart';
+
 
 Widget Past_order(context, order data) {
   bool isWin = true;

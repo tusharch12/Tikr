@@ -1,6 +1,7 @@
 import "package:flutter/material.dart";
+import "package:tikr/widget/Images.dart";
 
-import "../../Images.dart";
+
 
 class sliderpage2 extends StatelessWidget {
   final String title;

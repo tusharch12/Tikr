@@ -6,10 +6,11 @@ import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:gradient_borders/box_borders/gradient_box_border.dart';
+
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
-import '../../Images.dart';
+import 'package:tikr/widget/Images.dart';
 import 'package:http/http.dart' as http;
-import '../../textstyle.dart';
+import 'package:tikr/widget/textstyle.dart';
 import '../../widget/CustomNotification.dart';
 import 'Recharge_Request.dart';
 

@@ -12,13 +12,13 @@ import 'package:get/get_core/src/get_main.dart';
 import 'package:gradient_borders/box_borders/gradient_box_border.dart';
 import 'package:http/http.dart' as http;
 import 'package:provider/provider.dart';
-import '../../textstyle.dart';
+import 'package:tikr/widget/textstyle.dart';
 import 'package:simple_gradient_text/simple_gradient_text.dart';
 import 'package:tikr/Page/Wallet/withdrawRequest_Page.dart';
 import 'package:tikr/page/signIn.dart';
 import 'package:tikr/widget/signUpButton.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
-import '../../Images.dart';
+import 'package:tikr/widget/Images.dart';
 import '../../provider/pool_provider.dart';
 import '../../widget/CustomNotification.dart';
 

@@ -6,7 +6,7 @@ import 'package:intl/intl.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 
 import '../../Modals/orders/orders_modal.dart';
-import '../../textstyle.dart';
+import 'package:tikr/widget/textstyle.dart';
 import '../../widget/CustomNotification.dart';
 
 class orderDetail extends StatefulWidget {

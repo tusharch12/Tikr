@@ -8,14 +8,15 @@ import 'package:get/get.dart';
 import 'package:gradient_borders/box_borders/gradient_box_border.dart';
 import 'package:http/http.dart' as http;
 import 'package:provider/provider.dart';
-import '../Images.dart';
+import 'package:tikr/widget/Images.dart';
+import 'package:tikr/widget/textstyle.dart';
+
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 import '../Modals/Pools/JoinPool_modal.dart';
 import '../Page/Search page/popUp.dart';
 import '../page/Pool page/Pool_Page.dart';
 import '../provider/pool_provider.dart';
 import '../provider/searchPool.dart';
-import '../textstyle.dart';
 import 'CustomNotification.dart';
 
 Widget ProfilePic(context, String token, state) {

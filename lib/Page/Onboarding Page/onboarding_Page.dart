@@ -6,10 +6,10 @@ import 'package:gradient_borders/box_borders/gradient_box_border.dart';
 import 'package:tikr/Page/Onboarding%20Page/slider1_Page.dart';
 import 'package:tikr/Page/Onboarding%20Page/slider2_Page.dart';
 import 'package:tikr/Page/Onboarding%20Page/slider_page.dart';
-import 'package:tikr/button.dart';
 import 'package:tikr/page/signIn.dart';
+import 'package:tikr/widget/Images.dart';
+import 'package:tikr/widget/button.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
-import '../../Images.dart';
 import '../Wallet/WalletPage.dart';
 
 class onboarding extends StatefulWidget {

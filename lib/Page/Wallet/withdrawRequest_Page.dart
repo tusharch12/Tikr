@@ -5,11 +5,13 @@ import "package:flutter_svg/svg.dart";
 import "package:get/get.dart";
 import "package:gradient_borders/box_borders/gradient_box_border.dart";
 import "package:tikr/Page/Setting%20Page/contactus.dart";
-import "package:tikr/button.dart";
+import "package:tikr/widget/button.dart";
+import "package:tikr/widget/textstyle.dart";
+
 import "package:zoom_tap_animation/zoom_tap_animation.dart";
 import 'package:http/http.dart' as http;
 
-import "../../textstyle.dart";
+
 import "../../widget/CustomNotification.dart";
 import "confirm.dart";
 

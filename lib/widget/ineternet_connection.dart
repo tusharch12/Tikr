@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:gradient_borders/box_borders/gradient_box_border.dart';
+import 'package:tikr/widget/Images.dart';
 
-import '../Images.dart';
+
 
 Widget buildLoading() {
   return Center(
