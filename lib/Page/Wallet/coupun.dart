@@ -1,25 +1,17 @@
 import 'dart:async';
 import 'dart:convert';
-import 'dart:ffi';
-import 'dart:typed_data';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:gradient_borders/box_borders/gradient_box_border.dart';
 import 'package:http/http.dart' as http;
-import 'package:provider/provider.dart';
-import 'package:tikr/widget/textstyle.dart';
 import 'package:simple_gradient_text/simple_gradient_text.dart';
 import 'package:tikr/Page/Wallet/withdrawRequest_Page.dart';
-import 'package:tikr/page/signIn.dart';
 import 'package:tikr/widget/signUpButton.dart';
 import 'package:zoom_tap_animation/zoom_tap_animation.dart';
 import 'package:tikr/widget/Images.dart';
-import '../../provider/pool_provider.dart';
 import '../../widget/CustomNotification.dart';
 
 Future coupunapicall(token) async {
